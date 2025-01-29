@@ -1,5 +1,4 @@
 <h2 align="left">Raufu Abdulrahman</h2>
-<hr>
 
 ###
 
@@ -8,7 +7,6 @@
 ###
 
 <h3 align="left">Languages:</h3>
-<hr>
 
 ###
 
@@ -33,7 +31,6 @@
 ###
 
 <h3 align="left">Contact</h3>
-<hr>
 
 ###
 

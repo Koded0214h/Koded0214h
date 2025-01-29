@@ -7,6 +7,7 @@
 ###
 
 <h3 align="left">Languages:</h3>
+<hr>
 
 ###
 
@@ -31,6 +32,7 @@
 ###
 
 <h3 align="left">Contact</h3>
+<hr>
 
 ###
 
@@ -48,10 +50,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Koded0214h/Koded0214h/output/snake.svg" alt="Snake animation" />
 
 ###
 

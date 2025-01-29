@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **javascript, react, python, django**
 
-- 📫 How to reach me **coder0214h@gmai.com**
+- 📫 How to reach me **coder0214h@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

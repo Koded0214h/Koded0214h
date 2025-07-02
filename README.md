@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Köded, a passionate full-stack web developer specializing in Django, Python, HTML, CSS, JavaScript, and React. With a strong foundation in backend and frontend development, I build dynamic, responsive, and user-friendly web applications. I have experience working with authentication systems, databases, APIs, and modern UI frameworks. I am currently seeking job opportunities in full-stack web development where I can contribute my skills, learn from experienced developers, and work on challenging projects. Check out my projects and contributions on GitHub!</p>
+<p align="left">I am Köded, a passionate full-stack web developer specializing in Django, Python, HTML, CSS, JavaScript, React, React Native, C programming and TypeScript. With a strong foundation in backend and frontend development, I build dynamic, responsive, and user-friendly web applications. I have experience working with authentication systems, databases, APIs, and modern UI frameworks. I am currently seeking job opportunities in full-stack web development where I can contribute my skills, learn from experienced developers, and work on challenging projects. Check out my projects and contributions on GitHub!</p>
 
 ###
 

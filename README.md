@@ -1,64 +1,82 @@
-<h2 align="left">Raufu Abdulrahman</h2>
+# Hi, I'm Raufu Abdulrahman (Köded) 👋
 
-###
+**Software Engineer & Full-Stack Developer** specializing in building production-ready systems from the ground up. I architect scalable backend infrastructures, design clean APIs, and create intuitive user interfaces that solve real-world problems.
 
-<p align="left">I am Köded, a passionate full-stack web developer specializing in Django, Python, HTML, CSS, JavaScript, React, React Native, C programming and TypeScript. With a strong foundation in backend and frontend development, I build dynamic, responsive, and user-friendly web applications. I have experience working with authentication systems, databases, APIs, and modern UI frameworks. I am currently seeking job opportunities in full-stack web development where I can contribute my skills, learn from experienced developers, and work on challenging projects. Check out my projects and contributions on GitHub!</p>
+Currently working as a **Backend Engineer at Striche.AI** (building AI agent systems with Django & LangGraph) and **Full Stack Developer at SearchLabs** (Web3 + rapid prototype development).
 
-###
+## 🚀 What I Do
 
-<h3 align="left">Languages:</h3>
+- **Backend Engineering**: Building robust APIs, multi-agent AI workflows, and high-performance data pipelines
+- **Full-Stack Development**: End-to-end product development with Django, React, and React Native
+- **AI Integration**: Implementing LangGraph, LangChain, and cloud AI services (AWS Bedrock, Gemini AI)
+- **Developer Tools**: Creating CLI tools and automation systems that improve developer productivity
+- **Cloud & DevOps**: Serverless architectures with AWS Lambda, containerization with Docker
 
-###
+## 💼 Current Work
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
-</div>
+- 🤖 **Striche.AI** - Developing SDA planning engine with multi-agent AI workflows (30-40% accuracy improvement, 25% latency reduction)
+- 🌐 **SearchLabs** - Building Web3-enabled applications and rapid hackathon prototypes (60% faster setup time)
+- 🛠️ **SCAFLD** - Founded a CLI platform that auto-generates Django backends, cutting dev time by 80%
 
-###
+## 🏆 Recent Achievements
 
-<h3 align="left">Contact</h3>
+- 🥉 **Top 5 Finalist** - AWS Community Day Hackathon (Built BizPulse: AI-Powered Business Intelligence Co-pilot)
+- 🏅 **Finalist** - AHEAD Hackathon (Built MamaSafe: AI-powered Health for Pregnant Women)
+- 📊 Built systems serving **12+ internal projects** with automated backend generation
+- 🎯 Delivered **24-72 hour hackathon prototypes** consistently
 
-###
+## 🎯 Featured Projects
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdulrahman-raufu-07aa41335/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/coder0214h?s=21" target='_blank'>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.youtube.com/@koded_the_coder" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/koded_the_coder/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="coder0214h@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+Check out my pinned repositories below to see:
+- **TrustGrid** - AI Privacy Compliance Platform (NDPR-compliant, 70% reduction in manual audits)
+- **koded-cli** - Developer automation CLI for workflow optimization
+- **ReadFlow** - PDF-to-web readable format converter with AI text formatting
+- **SCAFLD** - Django backend generator (auth, CRUD, docs automation)
 
-###
+## 🛠️ Tech Stack
+
+**Backend & APIs**  
+Python • Django • Django REST Framework • PostgreSQL • JWT • Celery • Redis
+
+**Frontend**  
+React • React Native • JavaScript • TypeScript • TailwindCSS • HTML/CSS
+
+**AI & Cloud**  
+LangGraph • LangChain • DeepAgents • AWS (Lambda, Bedrock, Glue) • Gemini AI • AssemblyAI
+
+**Tools & DevOps**  
+Git • GitHub • Docker • VS Code Extensions • Chrome Extensions • Arduino
+
+**Other**  
+C • Unity • REST APIs • Web3 Integration
+
+## 📫 Let's Connect
+
+I'm actively seeking full-stack web development opportunities where I can contribute to challenging projects and continue growing as an engineer.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulrahman-raufu-07aa41335/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/coder0214h?s=21)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@koded_the_coder)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/koded_the_coder/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:coder0214h@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://koded.is-a.dev)
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Koded0214h/count.svg?"  />
+
+[![GitHub Streak](https://streak-stats.vercel.app?user=Koded0214h)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koded0214h&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/Koded0214h/count.svg)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koded0214h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Koded0214h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  
+💡 *"Building systems that matter, one commit at a time"*
+
 </div>
-
-###

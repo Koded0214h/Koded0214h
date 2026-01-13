@@ -65,7 +65,7 @@ I'm actively seeking full-stack web development opportunities where I can contri
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=Koded0214h)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=Koded0214h&theme=dark)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koded0214h&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 

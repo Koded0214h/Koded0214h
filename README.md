@@ -2,8 +2,6 @@
 
 **Software Engineer & Full-Stack Developer** specializing in building production-ready systems from the ground up. I architect scalable backend infrastructures, design clean APIs, and create intuitive user interfaces that solve real-world problems.
 
-Currently working as a **Backend Engineer at Striche.AI** (building AI agent systems with Django & LangGraph) and **Full Stack Developer at SearchLabs** (Web3 + rapid prototype development).
-
 ## 🚀 What I Do
 
 - **Backend Engineering**: Building robust APIs, multi-agent AI workflows, and high-performance data pipelines

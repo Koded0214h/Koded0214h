@@ -13,10 +13,11 @@ Currently working as a **Backend Engineer at Striche.AI** (building AI agent sys
 - **Cloud & DevOps**: Serverless architectures with AWS Lambda, containerization with Docker
 
 ## 💼 Work
-
-- 🤖 **Striche.AI** - Developing SDA planning engine with multi-agent AI workflows (30-40% accuracy improvement, 25% latency reduction)
-- 🌐 **SearchLabs** - Building Web3-enabled applications and rapid hackathon prototypes (60% faster setup time)
-- 🛠️ **SCAFLD** - Founded a CLI platform that auto-generates Django backends, cutting dev time by 80%
+- **Skurel LLC** - Building and maintaining backend services for Skurel’s niche AI APIs, for real business workflows
+- **GradLink AI** - Developing backend systems that power AI-driven education workflows, used in student learning and academic support features
+- **Striche.AI** - Developing SDA planning engine with multi-agent AI workflows (30-40% accuracy improvement, 25% latency reduction)
+- **SearchLabs** - Building Web3-enabled applications and rapid hackathon prototypes (60% faster setup time)
+- **SCAFLD** - Founded a CLI platform that auto-generates Django backends, cutting dev time by 80%
 
 ## 🏆 Recent Achievements
 

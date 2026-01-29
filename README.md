@@ -12,7 +12,7 @@ Currently working as a **Backend Engineer at Striche.AI** (building AI agent sys
 - **Developer Tools**: Creating CLI tools and automation systems that improve developer productivity
 - **Cloud & DevOps**: Serverless architectures with AWS Lambda, containerization with Docker
 
-## 💼 Current Work
+## 💼 Work
 
 - 🤖 **Striche.AI** - Developing SDA planning engine with multi-agent AI workflows (30-40% accuracy improvement, 25% latency reduction)
 - 🌐 **SearchLabs** - Building Web3-enabled applications and rapid hackathon prototypes (60% faster setup time)
@@ -36,7 +36,7 @@ Check out my pinned repositories below to see:
 ## 🛠️ Tech Stack
 
 **Backend & APIs**  
-Python • Django • Django REST Framework • PostgreSQL • JWT • Celery • Redis
+Python • Django • Django REST Framework • PostgreSQL • JWT • Celery • Redis • Node JS • Next JS
 
 **Frontend**  
 React • React Native • JavaScript • TypeScript • TailwindCSS • HTML/CSS
@@ -48,7 +48,7 @@ LangGraph • LangChain • DeepAgents • AWS (Lambda, Bedrock, Glue) • Gemin
 Git • GitHub • Docker • VS Code Extensions • Chrome Extensions • Arduino
 
 **Other**  
-C • Unity • REST APIs • Web3 Integration
+C • Unity • REST APIs • Web3 Integration • Rust • GoLang
 
 ## 📫 Let's Connect
 

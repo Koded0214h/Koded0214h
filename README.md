@@ -65,10 +65,10 @@ Everything else grows from there.
 
 | Project | Description | Stack |
 |--------|-------------|------|
-| **Antlers** | Real-time geospatial engine processing thousands of driver GPS pings/sec. Reduced frontend lag using Kafka ingestion, Redis geohash aggregation, and WebSocket streaming | Django REST, Kafka, Redis, WebSockets, React |
-| **BizPulse** | AI-powered business intelligence co-pilot transforming SMB data into actionable insights and anomaly alerts (Top 3 @ AWS Hackathon) | Django, React, AWS (Lambda, Glue, Bedrock, Lookout) |
-| **CampusNav** | Smart campus navigation platform with localized mapping, routing, and community-driven location intelligence | Django, React Native, PostgreSQL, Google Maps API |
-| **Settle** | Gasless Web3 invoicing & payment platform using ERC-4337 account abstraction for seamless UX | Django, Next.js, Solidity, TypeScript |
+| **Antlers** | Real-time geospatial engine processing thousands of driver GPS pings/sec. Reduced frontend lag using Kafka ingestion, Redis geohash aggregation, and WebSocket streaming |
+| **BizPulse** | AI-powered business intelligence co-pilot transforming SMB data into actionable insights and anomaly alerts (Top 3 @ AWS Hackathon) |
+| **CampusNav** | Smart campus navigation platform with localized mapping, routing, and community-driven location intelligence |
+| **Settle** | Gasless Web3 invoicing & payment platform using ERC-4337 account abstraction for seamless UX |
 
 ---
 ### 🧪 Experimental & Future Systems

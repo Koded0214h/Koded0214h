@@ -85,7 +85,7 @@ Everything else grows from there.
 | System                           | Description                                                                                               |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | **FraudMonit @ Skurel LLC**      | Fraud detection and transaction anomaly monitoring system with real-time ingestion pipelines and alerting |
-| **SDA Planning Engine**          | Multi-agent AI workflow system with improved orchestration (↑30–40% accuracy, ↓25% latency)               |
+| **SDA Planning Engine @ Striche.AI**          | Multi-agent AI workflow system with improved orchestration (↑30–40% accuracy, ↓25% latency)               |
 | **Web3 Prototypes @ SearchLabs** | Rapid blockchain-enabled applications built in 24–72 hours for hackathons and internal tools              |
 | **Engineering Templates**        | Reusable backend and system templates reducing prototype setup time by ~60%                               |
 

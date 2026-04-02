@@ -63,8 +63,8 @@ Everything else grows from there.
 
 ### 🚀 Production Systems & Products
 
-| Project | Description | Stack |
-|--------|-------------|------|
+| Project | Description |
+|--------|-------------|
 | **Antlers** | Real-time geospatial engine processing thousands of driver GPS pings/sec. Reduced frontend lag using Kafka ingestion, Redis geohash aggregation, and WebSocket streaming |
 | **BizPulse** | AI-powered business intelligence co-pilot transforming SMB data into actionable insights and anomaly alerts (Top 3 @ AWS Hackathon) |
 | **CampusNav** | Smart campus navigation platform with localized mapping, routing, and community-driven location intelligence |

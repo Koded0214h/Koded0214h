@@ -25,7 +25,7 @@ I am **Raufu Abdulrahman (Köded)** — a software engineer, systems builder, an
 
 I started coding at **9 years old**.
 
-Not because I had a grand plan — but because my mom told me to get off the couch and do something productive. Around that time, I was watching shows like *Game Shakers*, seeing kids build games people actually played. That flipped a switch for me.
+Not because I had a grand plan, but because my mom told me to get off the couch and do something productive. Around that time, I was watching shows like *Game Shakers*, seeing kids build games people actually played. That flipped a switch for me.
 
 I realized something simple but powerful:  
 > the things I enjoy were built by real people.
@@ -33,7 +33,7 @@ I realized something simple but powerful:
 With my dad’s support, I enrolled in a web development course and wrote my first *Hello World*.
 
 From there, it became a pattern:
-- staying up late at 10, writing HTML and CSS
+- staying up late at 11, writing HTML and CSS
 - breaking things and figuring out why they broke
 - rebuilding systems better than before
 
